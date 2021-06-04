@@ -1,1 +1,12 @@
-No exercício proposta pela Reprograma sobre lógica, fui desenvolvida a criar funções condicionais, criar variáveis através da linguagem JavaScript para resolver os exercícios propostos.
+# Lógica - Variáveis, Tipos de Dados, Operadores e Condicional 🚀
+
+Na semana 2 do curso da Reprograma de Desenvolvedora Back-end fomos orientadas a realizar um total de 10 exercícios onde utilizamos:
+
+- Tipos de dados;
+- Variáveis;
+- Operadores;
+- Estrutura Condicionais.
+
+Com foco total em **JavaScript** utilizando o **NodeJS**
+
+

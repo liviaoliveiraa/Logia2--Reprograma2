@@ -7,6 +7,6 @@ Na semana 2 do curso da Reprograma de Desenvolvedora Back-end fomos orientadas a
 - Operadores;
 - Estrutura Condicionais.
 
-Com foco total em **JavaScript** utilizando o **NodeJS**
+Com foco total em **JavaScript** utilizando o **NodeJS**.
 
 

@@ -16,25 +16,28 @@
 <p>O objetivo desse exercício foi consolidadar o que foi aprendido em aula a respeito do que são variáveis os conceitos de tipos de dados, variáveis, operadores e estruturas condicionais através da resolução dos seguintes problemas:</p>
 <p>
 
-1. Vamos criar variaveis usando let, const e var, atribuir valores, identificar comportamentos e saídas quando tentarmos recuperar.
+1. Solicite o preço de uma mercadoria e o percentual de desconto 20%. Exiba no console o valor do desconto e o preço a pagar.
 
-2. Vamos criar variaveis usando let, const e var, atribuir strings e vamos concatenar e interpolar.
+2. Calcule o tempo de uma viagem de carro. Pergunte a distância a percorrer e a velocidade média esperada para a viagem.
 
-3. Crie uma variavel e atribua como valor uma operacao de média entre 5 números inteiros e positivos.
+3. Crie um algoritmo que leia o valor de um jantar, calcule e informe o valor da taxa do garçom (10%) e o valor total a ser pago.
 
-4. Crie um programa que me diga como lucrar nesta situação: quero vender uma bicicleta que 60% do seu valor é R$300, por quanto devo vendê-la para lucrar 25%?
+4. Escreva um programa que pergunte a quantidade de km percorridos por um carro alugado pelo usuário, assim como a quantidade de dias pelos quais o carro foi alugado. Calcule o preço a pagar, sabendo que o carro custa 60,00 reais por dia e 0,15 centavos por km rodado.
 
-5. Faça um programa que peça dois números e imprima no console a soma desses dois números.
+5. Receba do usuários 3 números e calcule a média entre eles.
 
-6. Crie um programa que me diga quanto cobrar para vender um notebook usado: o seu custo foi R$3000, por quanto devo vendê-lo descontando 25%?
+6. Elabore um algoritmo que receba um número (1-7) e devolva o dia da semana correspondente.
 
-7. Escreva um programa que receba um valor em metros e o exiba no console convertido em milímetros.
+7. Elabore um algoritmo que receba dois números e determine qual é o maior entre eles, se os números forem iguais, mostre uma mensagem no console "Os números são iguais".
 
-8. Utilizando os conceitos que estudamos, vamos criar um programa que funcionará como um sinal de transito.
+8. Crie um algoritmo que receba três notas de um aluno, calcule sua média e mostre as seguintes mensagens de acordo com cada situação:
+- Se a media for igual ou maior que 7 - Aprovado
+- Se a media for maior e igual a cinco e menor que 7 - Recuperação
+- Se a media for menor que 5 - Reprovado
 
-9. 	Utilizando os conceitos que estudamos, vamos criar um programa que irá imprimir 'FizzBuzz'para números divisiveis por 3 e 5, para números divisíveis por 3 irá impirmir 'Fizz' e para números divisíveis por 5 irá imprimir 'Buzz' e por fim, se não cumprir nenhum dos casos acima imprime o próprio número.
+9. 	Crie uma variavel que retorna a palavra (impar/par) de acordo com seu parâmetro.
 
-10. Utilizando os conceitos que estudamos, vamos criar um programa que irá nos informar os dias de aula para a nossa turma.</p>
+10. Crie uma variavel que recebe o ano de nascimento da pessoa informando se ela é maior de idade ou menor.</p>
 
 ## Tecnologias
 - [VsCode](https://code.visualstudio.com/download)

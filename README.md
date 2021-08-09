@@ -41,4 +41,4 @@
 - [Node.js](https://nodejs.org/en/download/)
 
 ## Autora
-Made with :purple_heart: by [Lívia Oliveira](www.linkedin.com/in/lívia-de-oliveira-almeida)
+Made with :purple_heart: by Lívia Oliveira
